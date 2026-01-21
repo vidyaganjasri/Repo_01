@@ -1,2 +1,6 @@
 Hi there!
+<<<<<<< HEAD
 hello there
+=======
+hello here
+>>>>>>> 2fc069d (Sample)
